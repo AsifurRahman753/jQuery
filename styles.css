@@ -1,0 +1,10 @@
+.big-title {
+    font-size: 5rem;
+    color: cadetblue;
+}
+
+.margin {
+    margin: 15px;
+    padding: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
